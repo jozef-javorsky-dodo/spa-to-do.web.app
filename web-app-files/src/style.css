@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: cursive !important;
+  font-weight: 900 !important;
+  /* user-select: none; */
+  /* overflow-y: hidden; */
+  /* overflow-x: hidden; */
+}
+
+body {
+  background-color: rgb(188, 188, 188) !important;
+}
